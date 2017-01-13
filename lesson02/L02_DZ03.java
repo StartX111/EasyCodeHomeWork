@@ -2,8 +2,11 @@ package EasyCodeHomeWork.lesson02;
 
 import java.util.Scanner;
 
-/**
- * Created by vivat on 24.12.2016.
+/*
+ Ана́ним — частный случай анаграммы, способ словообразования псевдонимов
+ и авторских неологизмов путём написания слова в обратном порядке
+ (https://ru.wikipedia.org/wiki/Ананим).
+ С использованием цикла составьте и выведите ананим введённой пользователем строки.
  */
 public class L02_DZ03 {
     public static void main (String [] args) {

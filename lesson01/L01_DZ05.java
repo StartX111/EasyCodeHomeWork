@@ -2,8 +2,15 @@ package EasyCodeHomeWork.lesson01;
 
 import java.util.Scanner;
 
-/**
- * Created by vivat on 18.12.2016.
+/*
+ Написать программу определения оценки студента по его рейтингу, на основе следующих правил:
+Рейтинг-Оценка
+0 -19F
+20-39E
+40-59D
+60-74C
+75-89B
+90-100A
  */
 public class L01_DZ05 {
 

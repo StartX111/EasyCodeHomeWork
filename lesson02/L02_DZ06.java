@@ -3,8 +3,10 @@ package EasyCodeHomeWork.lesson02;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-/**
- * Created by vivat on 24.12.2016.
+/*
+ Напишите программу, «капитализирующую» введённый текст.
+ Каждое слово во введённом тесте после работы программы
+ должно начинаться с большой буквы.
  */
 public class L02_DZ06 {
     public static void main (String [] args) {

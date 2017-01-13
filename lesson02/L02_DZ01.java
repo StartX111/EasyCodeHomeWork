@@ -3,8 +3,8 @@ package EasyCodeHomeWork.lesson02;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-/**
- * Created by vivat on 24.12.2016.
+/*
+ Напишите код, заменяющий в введённой строке все вхождения слова «ссылка» на «вырезано цензурой»
  */
 public class L02_DZ01 {
     public static void main (String [] args) {

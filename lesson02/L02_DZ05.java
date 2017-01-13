@@ -2,8 +2,11 @@ package EasyCodeHomeWork.lesson02;
 
 import java.util.Scanner;
 
-/**
- * Created by vivat on 24.12.2016.
+/*
+ Палиндро́м — буквосочетание, слово или текст,
+ одинаково читающееся в обоих направлениях
+ (https://ru.wikipedia.org/wiki/Палиндром).
+ Напишите программу, которая определит, является ли введенный текст палиндромом.
  */
 public class L02_DZ05 {
     public static void main (String [] args) {

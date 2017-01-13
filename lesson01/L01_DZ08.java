@@ -2,9 +2,8 @@ package EasyCodeHomeWork.lesson01;
 
 import java.util.Scanner;
 
-/**
- * Created by vivat on 18.12.2016.
- * Посчитать макс(а*б*с, а+б+с)+3
+/*
+ Посчитать выражение макс(а*б*с, а+б+с)+3
  */
 public class L01_DZ08 {
 

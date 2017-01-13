@@ -3,9 +3,13 @@ package EasyCodeHomeWork.lesson02;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-/**
- * Created by vivat on 24.12.2016.
- * последняя задача
+/* TODO:It needs to be redone
+ Напишите программу простого «форматирования» текста с
+ использованием StringBuffer/Builder.
+ Пользователь вводит целое число – ширину условной страницы
+ и какое-либо число строк произвольной длины
+ (ввод строки «stop» означает конец ввода).
+ Программа должна отформатировать текст таким образом, чтобы строки не вылезали за ширину страницы.
  */
 public class L02_DZ08 {
     public static void main (String [] args) {

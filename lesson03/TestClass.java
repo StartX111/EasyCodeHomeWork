@@ -2,9 +2,6 @@ package EasyCodeHomeWork.lesson03;
 
 import java.util.Random;
 
-/**
- * Created by vivat on 26.12.2016.
- */
 public class TestClass {
 
 

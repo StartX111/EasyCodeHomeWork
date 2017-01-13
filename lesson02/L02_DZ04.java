@@ -3,8 +3,10 @@ package EasyCodeHomeWork.lesson02;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-/**
- * Created by vivat on 24.12.2016.
+/*
+ Напишите программу, вычисляющую ваше ФИО
+ в краткой форме из введённого полного имени.
+ Если введено менее 3х слов вывести информацию об ошибке.
  */
 public class L02_DZ04 {
     public static void main (String [] args) {

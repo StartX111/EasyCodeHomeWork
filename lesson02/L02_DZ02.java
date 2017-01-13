@@ -2,8 +2,9 @@ package EasyCodeHomeWork.lesson02;
 
 import java.util.Scanner;
 
-/**
- * Created by vivat on 24.12.2016.
+/*
+ Напишите программу, которая подсчитает «вес» строки,
+ как сумма codepoint-ов всех символов, входящих в неё.
  */
 public class L02_DZ02 {
     public static void main (String [] args) {

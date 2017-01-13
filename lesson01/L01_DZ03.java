@@ -1,7 +1,7 @@
 package EasyCodeHomeWork.lesson01;
 
-/**
- * Created by vivat on 18.12.2016.
+/*
+ Вывести в консоль русский и латинский алфавиты с использованием char.
  */
 public class L01_DZ03 {
 

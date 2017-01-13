@@ -2,8 +2,11 @@ package EasyCodeHomeWork.lesson02;
 
 import java.util.Scanner;
 
-/**
- * Created by vivat on 24.12.2016.
+/*
+ Напишите программу, которая будет считывать число из консоли
+ и выводить отдельные цифры, из которого оно состоит:
+ Например: ввод числа 357951
+ вывод программы: 3,5,7,9,5,1
  */
 public class L02_DZ07 {
     public static void main (String [] args) {

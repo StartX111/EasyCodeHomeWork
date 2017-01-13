@@ -2,6 +2,13 @@ package EasyCodeHomeWork.lesson03;
 
 import java.util.Arrays;
 
+/*
+В одномерном массиве, состоящем из Nцелых элементов, вычислить:
+•1) произведение элементов массива с четными номерами;
+•2) сумму элементов массива, расположенных между первым и последним нулевыми элементами.
+Преобразовать массив таким образом, чтобы сначала располагались все положительные элементы,
+а потом —все отрицательные (элементы, равные 0, считать положительными).
+ */
 public class L03_DZ02 {
 
     public static void main (String [] args) {
@@ -10,7 +17,7 @@ public class L03_DZ02 {
         int sumNamber = 0;
 
         for (int arrayCount = 0; arrayCount < array.length; arrayCount++) {
-            if ((arrayCount%2 ==0) & (array[arrayCount] !=0)){
+            if ((array[arrayCount] !=0) && (arrayCount%2 ==1)){
                 multiplDefinetionNamber *= array[arrayCount];
             }
         }
